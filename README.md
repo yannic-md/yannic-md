@@ -42,6 +42,6 @@
 </p>
 <hr>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RazzerDE&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="RazzerDE's GitHub Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RazzerDE&theme=jolly&hide_border=true&count_private=true" alt="RazzerDE's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yannic-md&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yannic-md&theme=jolly&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
